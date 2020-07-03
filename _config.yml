@@ -1,2 +1,3 @@
 name: Praneeth Medepalli
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
